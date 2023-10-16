@@ -1,7 +1,6 @@
 {
   "name": "js_basics",
   "version": "1.0.0",
-  "description": "",
   "main": "task1.js",
   "type": "module",
   "scripts": {

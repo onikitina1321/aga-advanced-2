@@ -1,8 +1,8 @@
 // 5.1
 const radius = 5
-const π = Math.PI
+const pi = Math.PI
 
-const circleArea = π * Math.pow(radius, 2)
+const circleArea = pi * Math.pow(radius, 2)
 console.log(+circleArea.toFixed(2))
 
 // 5.2
@@ -16,6 +16,6 @@ console.log(+rectangleArea.toFixed(2))
 const height = 11
 const cylinderRadius = 10
 
-const cylinderVolume = π * Math.pow(cylinderRadius, 2) * height
+const cylinderVolume = pi * Math.pow(cylinderRadius, 2) * height
 console.log(+cylinderVolume.toFixed(2))
 
