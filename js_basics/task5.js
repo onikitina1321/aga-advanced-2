@@ -18,4 +18,3 @@ const cylinderRadius = 10
 
 const cylinderVolume = pi * Math.pow(cylinderRadius, 2) * height
 console.log(+cylinderVolume.toFixed(2))
-

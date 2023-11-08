@@ -1,7 +1,7 @@
 const person = {
-    firstName: 'Olena',
-    lastName: 'Nikitina',
-    age: 31
+  firstName: 'Olena',
+  lastName: 'Nikitina',
+  age: 31
 }
 person.email = 'adhellam@gmail.com'
 delete person.age
