@@ -1,6 +1,6 @@
-function isAdult(age){
-    return age >= 18;
+function isAdult (age) {
+  return age >= 18
 }
 
-console.log("Is Adult:", isAdult(25))
-console.log("Is Adult:", isAdult(15))
+console.log('Is Adult:', isAdult(25))
+console.log('Is Adult:', isAdult(15))

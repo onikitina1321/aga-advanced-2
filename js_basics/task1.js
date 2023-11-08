@@ -1,7 +1,7 @@
 const age = 18
 console.log(age)
 
-const name = "Olena"
+const name = 'Olena'
 console.log(name)
 
 const isAdult = true
